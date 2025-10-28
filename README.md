@@ -139,3 +139,28 @@
 ## 🚨 오류 상황들
 
 ## 📊 QA 테스트
+-  **애플리케이션 테스트 수행 능력단위**에서 배운 테스트 케이스 설계 및 실행 절차를 기반으로
+QA 테스트 문서를 작성하고 기능별 검증을 수행했습니다.
+-  **JUnit5를 활용한 단위 테스트 및 통합 테스트**를 통해
+애플리케이션의 안정성과 기능 완성도를 검증했습니다.
+
+<img width="503" height="186" alt="bug-fix" src="https://github.com/user-attachments/assets/c1626ec0-fcf7-4257-8fd1-a68f51640dd9" />
+
+---
+
+## 📱 앱 전환 (React Query + WebView)
+-  **통합 구현 능력단위**에서 배운 API 통합 및 데이터 관리 기법을 활용하여
+React Query 기반의 WebView 환경을 구현했습니다.
+
+-   WebView를 통해 모바일 앱 환경 구현
+
+![mobile](https://github.com/user-attachments/assets/55646403-b6a8-45c3-8d9b-cb6e7cee2ec0)
+
+---
+
+## 인프라 구축구분(추가 예정)
+
+---
+
+📌 **작성자:** 정희준 &nbsp;&nbsp;&nbsp;&nbsp; **TEAM:** KOK <br>
+📅 **기간:** 2025.09.24 ~ 2025.10.12 (**총 프로젝트 기간:** 2025.09.24 ~ 2025.10.24)
