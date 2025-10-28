@@ -25,7 +25,7 @@
    **SQL 활용 능력단위**에서 배운 **DML(INSERT, UPDATE, DELETE, SELECT)** 문법을 사용하여
 더미 데이터를 추가·수정·삭제·조회하며 동작을 검증했습니다.
 -  이를 통해 데이터 구조 설계부터 실제 조작까지의 전 과정을 경험했습니다.
-<img width="3400" height="1810" alt="erd" src="https://github.com/user-attachments/assets/34230083-a24a-479e-8bc6-bff9307125c4" />
+<img width="8346" height="6562" alt="diagram" src="https://github.com/user-attachments/assets/aabfcb18-6358-4b1d-908a-9b97a2029da9" />
 
 
 ---
