@@ -192,7 +192,7 @@ React Query 기반의 WebView 환경을 구현했습니다.
 
 ---
 
-## AWS Cloud
+## AWS Cloud 배포
 
 <img width="1920" height="1080" alt="Load-Balancing" src="https://github.com/user-attachments/assets/c9d71278-9e41-4c15-9f51-0766bb7a44b0" />
 
