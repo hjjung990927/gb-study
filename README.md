@@ -19,6 +19,7 @@
   주요 요인으로는 기업의 경력직 선호와 수시 채용 확대, 경기 침체로 인한 신규 채용 감소, 청년층이 선호하는 양질의 일자리 부족 등이 복합적으로 작용한 것으로 분석됩니다. <br>
   이러한 결과는 청년층을 대상으로 한 취업 지원 정책 강화, 신입 구직자에 대한 채용 확대, 청년 맞춤형 직무 교육 제공 등 실질적 대책이 필요함을 나타냅니다.
 
+  [📄 기획배경 시각](https://github.com/hjjung990927/study-Data-Analysis/blob/master/data-analysis/kok/kok_data_analysis.ipynb)
 ### 출처
   [🌐 KOSIS 국가통계포털](https://kosis.kr/)
 
