@@ -210,7 +210,8 @@ React Query 기반의 WebView 환경을 구현했습니다.
 
 -   WebView를 통해 모바일 앱 환경 구현
 
-![mobile](https://github.com/user-attachments/assets/55646403-b6a8-45c3-8d9b-cb6e7cee2ec0)
+<img width="230" height="503" alt="mobile1" src="https://github.com/user-attachments/assets/227c9a94-a4b3-4f16-bc61-db8aeefdd2f6" />
+<img width="230" height="503" alt="mobile2" src="https://github.com/user-attachments/assets/9cf5b10b-0da7-4915-9a3f-7a56beffd4ad" />
 
 ---
 
