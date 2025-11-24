@@ -1,8 +1,7 @@
 ## 📊 기획배경(공공데이터 분석)
   20대 후반의 실업률이 증가하고, 졸업자의 유지취업률이 하락하는 등 청년층을 중심으로 취업난이 심화되고 있습니다. 
   실제 통계 데이터를 바탕으로 청년층 취업률이 얼마나 감소하였는지 검증하고자 시각화 분석을 진행해보았습니다.
-<img width="591" height="329" alt="employ_rate" src="https://github.com/user-attachments/assets/ddb4e3d5-bcd4-4002-bbd8-ea31dd1eee66" />
-
+  
 ### 20~30대의 취업률
 <img width="480" height="325" alt="data-analysis" src="https://github.com/user-attachments/assets/e91e0cd1-85ff-42ac-b304-841148160667" />
 
